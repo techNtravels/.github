@@ -26,49 +26,23 @@ TechN'Travels was founded by a team of two Google Developer Experts (GDEs) who i
 
 This organization hosts the technical components, infrastructure, and public resources that power the TechN'Travels platform and support our community.
 
-| Repository                | Purpose                               |
-| -------------             |:-------------------------------------:|
-| `techntravels-mvp-api`    | right foo                             |
-| left bar                  | right bar                             |
-| left baz                  | right baz                             |
-Repository
-
-Purpose
-
-Status
+| Repository                            | Purpose                                                                       |
+| -------------------------             |:-----------------------------------------------------------------------------:|
+| `techntravels-mvp-api`                | Core API for managing DevFest Pro package bookings, payments, and user data.  |
+| `dev-journey-guides`                  | Public repository containing open-source resources, travel checklists, visa guides, and city guides for major tech events.|
+| `payment-integration-templates`       | Templates and documentation for integrating regional payment gateways (M-Pesa, Flutterwave, Pesapal).|           
+| `website-frontend`                    | The front-end code for the main TechN'Travels booking and information portal.|
 
 
 
-Core API for managing DevFest Pro package bookings, payments, and user data.
-
-Private/Internal
-
-dev-journey-guides
-
-Public repository containing open-source resources, travel checklists, visa guides, and city guides for major tech events.
-
-Public/Community
-
-payment-integration-templates
-
-Templates and documentation for integrating regional payment gateways (M-Pesa, Flutterwave, Pesapal).
-
-Internal/Docs
-
-website-frontend
-
-The front-end code for the main TechN'Travels booking and information portal.
-
-Internal/UX
-
-👋 Get Involved
+### 👋 Get Involved
 
 While our core booking platform code is currently private, we encourage contributions to our public resources and community-driven content.
 
-Suggest a Guide: Found a useful travel tip or an outdated visa process? Open a Pull Request in the dev-journey-guides repository!
+- Suggest a Guide: Found a useful travel tip or an outdated visa process? Open a Pull Request in the dev-journey-guides repository!
 
-Report an Issue: Encountered a bug or have a suggestion for the booking workflow? Open an issue in the relevant repository.
+- Report an Issue: Encountered a bug or have a suggestion for the booking workflow? Open an issue in the relevant repository.
 
-Connect with Us: If you are a developer, a potential partner, or a sponsor, please visit our website (coming soon!) or connect with the co-founders on the usual community channels.
+- Connect with Us: If you are a developer, a potential partner, or a sponsor, please visit our website (coming soon!) or connect with the co-founders on the usual community channels.
 
-TechN'Travels: Smart Logistics for Smart People.
+### TechN'Travels: Connecting Africa's Devs
